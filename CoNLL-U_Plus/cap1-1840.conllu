@@ -2216,7 +2216,7 @@
 142	informativo	informativo	ADJ	A	Gender=Masc|Number=Sing	_	_	_	_	*
 143	…	…	PUNCT	FF	_	_	_	_	_	*
 144	et	e	CCONJ	CC	_	_	_	_	Style=Arch	et
-145	ancorché	ancorché	ADV	B	_	_	_	_	_	*
+145	ancorché	ancorché	SCONJ	CS	_	_	_	_	_	*
 146	non	non	ADV	BN	PronType=Neg	_	_	_	_	*
 147	confessi	confessare	VERB	VA	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	_	*
 148	delitto	delitto	NOUN	V	Gender=Masc|Number=Sing	_	_	_	_	*
