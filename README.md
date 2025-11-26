@@ -8,4 +8,5 @@ Currently, the repository gives access to:
   - development set: 101 sentences, 2,670 syntactic words;
   - test set: 75 sentences, 2,457 syntactic words.
 - Folder **CoNLL-U_Plus**: chapters I, VIII and XXII of _Ventisettana_ and _Quarantana_ annotated with an additional column that contains a different lemmatization following a conservative approach. For example, an altered form is lemmatized with its non-altered lemma in the third field (*coltellacci* --> *coltello*) and with its altered lemma in the eleventh field (*coltellacci* --> *coltello*). Similarly, an archaic form is lemmatize with its normalized lemma in the third field (*edifizi* --> *edificio*) and with its archaic lemma in the eleventh field (*edifizi* --> *edifizio*).
+- Annotation **guidelines**.
 - **variant_apoc_crf_model.joblib**: CFR sequence tagger developed to identify apocopated forms in the novel.
