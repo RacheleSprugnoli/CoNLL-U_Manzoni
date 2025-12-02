@@ -2253,7 +2253,7 @@
 61	,	,	PUNCT	FF	_	_	_	_	_	*
 62	calamaio	calamaio	NOUN	S	Gender=Masc|Number=Sing	_	_	_	_	*
 63	e	e	CCONJ	CC	_	_	_	_	_	*
-64	polverino	polvere	NOUN	S	Gender=Masc|Number=Sing	_	_	_	Degree=Dim|SpaceAfter=No	polverino
+64	polverino	polverino	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No	*
 65	;	;	PUNCT	FC	_	_	_	_	_	*
 66	e	e	CCONJ	CC	_	_	_	_	SpaceAfter=No	*
 67	,	,	PUNCT	FF	_	_	_	_	_	*
