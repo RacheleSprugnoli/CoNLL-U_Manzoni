@@ -1781,7 +1781,7 @@
 18-19	del	_	_	_	_	_	_	_	_	*
 18	di	di	ADP	E	_	_	_	_	_	*
 19	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	_	*
-20	tavolino	tavolo	NOUN	S	Gender=Masc|Number=Sing	_	_	_	Degree=Dim|SpaceAfter=No	tavolino
+20	tavolino	tavolino	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No	*
 21	,	,	PUNCT	FF	_	_	_	_	_	*
 22	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	_	_	_	_	*
 23	tolse	togliere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	*
@@ -1834,7 +1834,7 @@
 15-16	al	_	_	_	_	_	_	_	_	*
 15	a	a	ADP	E	_	_	_	_	_	*
 16	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	_	*
-17	tavolino	tavolo	NOUN	S	Gender=Masc|Number=Sing	_	_	_	Degree=Dim	tavolino
+17	tavolino	tavolino	NOUN	S	Gender=Masc|Number=Sing	_	_	_	_	*
 18	in	in	ADP	E	_	_	_	_	_	*
 19	modo	modo	NOUN	S	Gender=Masc|Number=Sing	_	_	_	_	*
 20	di	di	ADP	E	_	_	_	_	_	*

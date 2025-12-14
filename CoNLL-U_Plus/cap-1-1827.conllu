@@ -7566,7 +7566,7 @@
 9-10	sul	_	_	_	_	_	_	_	_	*
 9	su	su	ADP	E	_	_	_	_	_	*
 10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	_	*
-11	tavolino	tavolo	NOUN	S	Gender=Masc|Number=Sing	_	_	_	Degree=Dim	tavolino
+11	tavolino	tavolino	NOUN	S	Gender=Masc|Number=Sing	_	_	_	_	*
 12-13	al	_	_	_	_	_	_	_	_	*
 12	a	a	ADP	E	_	_	_	_	_	*
 13	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	_	*

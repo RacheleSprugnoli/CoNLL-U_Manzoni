@@ -1798,7 +1798,7 @@
 18-19	del	_	_	_	_	_	_	_	_	*
 18	di	di	ADP	E	_	_	_	_	_	*
 19	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	_	*
-20	tavolino	tavolo	NOUN	S	Gender=Masc|Number=Sing	_	_	_	Degree=Dim|SpaceAfter=No	tavolino
+20	tavolino	tavolino	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No	*
 21	,	,	PUNCT	FF	_	_	_	_	_	*
 22	levò	levare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	*
 23	fuori	fuori	ADV	E	_	_	_	_	_	*
@@ -1854,7 +1854,7 @@
 16-17	al	_	_	_	_	_	_	_	_	*
 16	a	a	ADP	E	_	_	_	_	_	*
 17	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	_	*
-18	tavolino	tavolo	NOUN	S	Gender=Masc|Number=Sing	_	_	_	Degree=Dim|SpaceAfter=No	tavolino
+18	tavolino	tavolino	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No	*
 19	,	,	PUNCT	FF	_	_	_	_	_	*
 20	in	in	ADP	E	_	_	_	_	_	*
 21	maniera	maniera	NOUN	S	Gender=Fem|Number=Sing	_	_	_	_	*
@@ -2232,7 +2232,7 @@
 42-43	del	_	_	_	_	_	_	_	_	*
 42	di	di	ADP	E	_	_	_	_	_	*
 43	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	_	*
-44	tavolino	tavolo	NOUN	S	Gender=Masc|Number=Sing	_	_	_	Degree=Dim|SpaceAfter=No	tavolino
+44	tavolino	tavolino	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No	*
 45	,	,	PUNCT	FF	_	_	_	_	_	*
 46	e	e	CCONJ	CC	_	_	_	_	_	*
 47-48	tiratolo	_	_	_	_	_	_	_	_	*
@@ -2263,7 +2263,7 @@
 71	seggiola	seggiola	NOUN	S	Gender=Fem|Number=Sing	_	_	_	_	*
 72	e	e	CCONJ	CC	_	_	_	_	_	*
 73	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	_	*
-74	tavolino	tavolo	NOUN	S	Gender=Masc|Number=Sing	_	_	_	Degree=Dim|SpaceAfter=No	tavolino
+74	tavolino	tavolino	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No	*
 75	,	,	PUNCT	FF	_	_	_	_	_	*
 76	s'	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs|Reflex=Yes	_	_	_	SpaceAfter=No	*
 77	era	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	*

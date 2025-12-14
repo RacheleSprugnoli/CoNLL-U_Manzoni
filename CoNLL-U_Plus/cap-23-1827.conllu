@@ -3286,7 +3286,7 @@
 4	corse	correre	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	*
 5	ad	a	ADP	E	_	_	_	_	_	*
 6	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	_	_	_	_	*
-7	tavolino	tavolo	NOUN	S	Gender=Masc|Number=Sing	_	_	_	Degree=Dim|SpaceAfter=No	tavolino
+7	tavolino	tavolino	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No	*
 8	,	,	PUNCT	FF	_	_	_	_	_	*
 9	e	e	CCONJ	CC	_	_	_	_	_	*
 10	scosse	scuotere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	*
