@@ -823,7 +823,7 @@
 12	,	,	PUNCT	FF	_	_	_	_	_	*
 13	tra	tra	ADP	E	_	_	_	_	_	*
 14	due	due	NUM	N	NumType=Card	_	_	_	_	*
-15	casipole	casa	NOUN	S	Gender=Fem|Number=Plur	_	_	_	Degree=Dim|SpaceAfter=No|Style=Arch	casipola
+15	casipole	casupola	NOUN	S	Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Style=Arch	casipola
 16	,	,	PUNCT	FF	_	_	_	_	_	*
 17	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	_	_	_	_	*
 18	stradetta	strada	NOUN	S	Gender=Fem|Number=Sing	_	_	_	Degree=Dim|SpaceAfter=No	stradetta
@@ -1794,7 +1794,7 @@
 14	a	a	ADP	E	_	_	_	_	_	*
 15	sé	sé	PRON	PC	Person=3|PronType=Prs|Reflex=Yes	_	_	_	_	*
 16	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	_	_	_	_	*
-17	cassetta	cassa	NOUN	S	Gender=Fem|Number=Sing	_	_	_	Degree=Dim	cassetta
+17	cassetta	cassetta	NOUN	S	Gender=Fem|Number=Sing	_	_	_	_	*
 18-19	del	_	_	_	_	_	_	_	_	*
 18	di	di	ADP	E	_	_	_	_	_	*
 19	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	_	*
@@ -3739,7 +3739,7 @@
 26	sconficcare	sconficcare	VERB	V	VerbForm=Inf	_	_	_	_	*
 27	adagio	adagio	ADV	A	_	_	_	_	_	*
 28	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	_	*
-29	paletto	palo	NOUN	S	Gender=Masc|Number=Sing	_	_	_	Degree=Dim|SpaceAfter=No	paletto
+29	paletto	paletto	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No	*
 30	,	,	PUNCT	FF	_	_	_	_	_	*
 31	per	per	ADP	E	_	_	_	_	_	*
 32	aver	avere	VERB	V	VerbForm=Inf	_	_	_	Variant=Apoc	*
@@ -10997,7 +10997,7 @@
 87-88	alla	_	_	_	_	_	_	_	_	*
 87	a	a	ADP	E	_	_	_	_	_	*
 88	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	_	*
-89	casuccia	casa	NOUN	S	Gender=Fem|Number=Sing	_	_	_	Degree=End	casuccia
+89	casuccia	casa	NOUN	S	Gender=Fem|Number=Sing	_	_	_	Degree=Dim	casuccia
 90	a	a	ADP	E	_	_	_	_	_	*
 91	cui	cui	PRON	PR	PronType=Rel	_	_	_	_	*
 92	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	_	*

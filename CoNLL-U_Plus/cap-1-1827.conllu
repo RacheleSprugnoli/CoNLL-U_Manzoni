@@ -1254,7 +1254,7 @@
 17	divideva	dividere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	_	*
 18	in	in	ADP	E	_	_	_	_	_	*
 19	due	due	NUM	N	NumType=Card	_	_	_	_	*
-20	viottoli	via	NOUN	S	Gender=Masc|Number=Plur	_	_	_	Degree=Dim	viottolo
+20	viottoli	viottolo	NOUN	S	Gender=Masc|Number=Plur	_	_	_	_	*
 21	a	a	ADP	E	_	_	_	_	_	*
 22	foggia	foggia	NOUN	S	Gender=Fem|Number=Sing	_	_	_	_	*
 23	di	di	ADP	E	_	_	_	_	_	*
@@ -1321,7 +1321,7 @@
 4	di	di	ADP	E	_	_	_	_	_	*
 5	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	_	_	_	_	*
 6	due	due	NUM	N	NumType=Card	_	_	_	_	*
-7	viottoli	via	NOUN	S	Gender=Masc|Number=Plur	_	_	_	Degree=Dim|SpaceAfter=No	viottolo
+7	viottoli	viottolo	NOUN	S	Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No	*
 8	,	,	PUNCT	FF	_	_	_	_	_	*
 9	invece	invece	SCONJ	B	_	_	_	_	_	*
 10	di	di	ADP	E	_	_	_	_	_	*
@@ -1488,7 +1488,7 @@
 18	di	di	ADP	E	_	_	_	_	_	*
 19	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	_	_	_	_	*
 20	due	due	NUM	N	NumType=Card	_	_	_	_	*
-21	viottoli	via	NOUN	S	Gender=Masc|Number=Plur	_	_	_	Degree=Dim|SpaceAfter=No	viottolo
+21	viottoli	viottolo	NOUN	S	Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No	*
 22	:	:	PUNCT	FC	_	_	_	_	_	*
 23	l'	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	SpaceAfter=No	*
 24	uno	uno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	_	_	_	_	*
@@ -1597,7 +1597,7 @@
 5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	_	*
 6	capo	capo	NOUN	S	Gender=Masc|Number=Sing	_	_	_	_	*
 7	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	_	_	_	_	*
-8	reticella	rete	NOUN	S	Gender=Fem|Number=Sing	_	_	_	Degree=Dim	reticella
+8	reticella	reticella	NOUN	S	Gender=Fem|Number=Sing	_	_	_	_	*
 9	verde	verde	ADJ	A	Number=Sing	_	_	_	SpaceAfter=No	*
 10	,	,	PUNCT	FF	_	_	_	_	_	*
 11	che	che	PRON	PR	PronType=Rel	_	_	_	_	*
@@ -4114,7 +4114,7 @@
 6	volta	volta	NOUN	S	Gender=Fem|Number=Sing	_	_	_	_	*
 7	l'	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	SpaceAfter=No	*
 8	altro	altro	DET	A	Gender=Masc|Number=Sing|PronType=Ind	_	_	_	_	*
-9	compagnone	compagno	NOUN	S	Gender=Masc|Number=Sing	_	_	_	Degree=Aug|SpaceAfter=No	compagnone
+9	compagnone	compagnone	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No	*
 10	,	,	PUNCT	FF	_	_	_	_	_	*
 11	che	che	PRON	PR	PronType=Rel	_	_	_	_	*
 12	non	non	ADV	BN	PronType=Neg	_	_	_	_	*

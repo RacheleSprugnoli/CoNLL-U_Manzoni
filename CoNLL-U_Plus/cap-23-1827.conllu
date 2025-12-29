@@ -2171,7 +2171,7 @@
 3	!	!	PUNCT	FS	_	_	_	_	_	*
 4	se	se	SCONJ	CS	_	_	_	_	_	*
 5	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	_	_	_	_	*
-6	omiciattolo	uomo	NOUN	S	Gender=Masc|Number=Sing	_	_	_	Degree=Pej|SpaceAfter=No	*
+6	omiciattolo	omiciattolo	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No	*
 7	,	,	PUNCT	FF	_	_	_	_	_	*
 8	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	_	_	_	_	*
 9	miserabile	miserabile	ADJ	A	Number=Sing	_	_	_	SpaceAfter=No	*
@@ -2631,7 +2631,7 @@
 2	Lasciamo	lasciare	VERB	V	Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	_	*
 3	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	_	_	_	_	*
 4	novantanove	novantanove	NUM	N	NumType=Card	_	_	_	_	*
-5	pecorelle	pecora	NOUN	S	Gender=Fem|Number=Plur	_	_	_	Degree=Dim|SpaceAfter=No	pecorella
+5	pecorelle	pecora	NOUN	S	Gender=Fem|Number=Plur	_	_	_	Degree=End|SpaceAfter=No	pecorella
 6	,	,	PUNCT	FF	_	_	_	_	SpaceAfter=No	*
 7	»	»	PUNCT	FB	_	_	_	_	_	*
 8	rispose	rispondere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	*
@@ -3291,7 +3291,7 @@
 9	e	e	CCONJ	CC	_	_	_	_	_	*
 10	scosse	scuotere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	*
 11	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	_	_	_	_	*
-12	campanello	campana	NOUN	S	Gender=Masc|Number=Sing	_	_	_	Degree=Dim|SpaceAfter=No	campanello
+12	campanello	campanello	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No	*
 13	.	.	PUNCT	FS	_	_	_	_	_	*
 
 # sent_id = 103

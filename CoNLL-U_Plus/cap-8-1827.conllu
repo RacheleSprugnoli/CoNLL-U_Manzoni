@@ -804,7 +804,7 @@
 10	apriva	aprire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	_	*
 11	tra	tra	ADP	E	_	_	_	_	_	*
 12	due	due	NUM	N	NumType=Card	_	_	_	_	*
-13	casipole	casa	NOUN	S	Gender=Fem|Number=Plur	_	_	_	Degree=Pej|Style=Arch	casipola
+13	casipole	casupola	NOUN	S	Gender=Fem|Number=Plur	_	_	_	Style=Arch	casipola
 14	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	_	_	_	_	*
 15	stradetta	strada	NOUN	S	Gender=Fem|Number=Sing	_	_	_	Degree=Dim|SpaceAfter=No	stradetta
 16	,	,	PUNCT	FF	_	_	_	_	_	*
@@ -1264,7 +1264,7 @@
 34	su	su	ADP	E	_	_	_	_	_	*
 35	quella	quello	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	_	_	_	_	*
 36	faccia	faccia	NOUN	S	Gender=Fem|Number=Sing	_	_	_	_	*
-37	brunazza	bruno	ADJ	A	Gender=Fem|Number=Sing	_	_	_	Degree=Pej	brunazzo
+37	brunazza	brunazzo	ADJ	A	Gender=Fem|Number=Sing	_	_	_	_	*
 38	e	e	CCONJ	CC	_	_	_	_	_	*
 39	rugosa	rugoso	ADJ	A	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No	*
 40	,	,	PUNCT	FF	_	_	_	_	_	*
@@ -3509,7 +3509,7 @@
 76	allontanata	allontanare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	_	*
 77	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	_	*
 78	nostra	nostro	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	_	_	_	_	*
-79	brigatella	brigata	NOUN	S	Gender=Fem|Number=Sing	_	_	_	Degree=End|SpaceAfter=No	brigatella
+79	brigatella	brigata	NOUN	S	Gender=Fem|Number=Sing	_	_	_	Degree=Dim|SpaceAfter=No	brigatella
 80	,	,	PUNCT	FF	_	_	_	_	_	*
 81	andando	andare	VERB	V	VerbForm=Conv	_	_	_	_	*
 82	anch'	anche	ADV	B	_	_	_	_	SpaceAfter=No	*
@@ -6132,7 +6132,7 @@
 18-19	al	_	_	_	_	_	_	_	_	*
 18	a	a	ADP	E	_	_	_	_	_	*
 19	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	_	*
-20	garzoncello	garzone	NOUN	S	Gender=Masc|Number=Sing	_	_	_	Degree=End	garzoncello
+20	garzoncello	garzone	NOUN	S	Gender=Masc|Number=Sing	_	_	_	Degree=Dim	garzoncello
 21	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	_	_	_	_	*
 22	spiegazione	spiegazione	NOUN	S	Gender=Fem|Number=Sing	_	_	_	_	*
 23	più	più	ADV	B	Degree=Cmp	_	_	_	_	*
@@ -10509,7 +10509,7 @@
 18	a	a	ADP	E	_	_	_	_	_	*
 19	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	_	*
 20	suo	suo	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	_	_	_	_	*
-21	paesello	paesello	NOUN	S	Gender=Masc|Number=Sing	_	_	_	Degree=End|SpaceAfter=No	paesello
+21	paesello	paesello	NOUN	S	Gender=Masc|Number=Sing	_	_	_	Degree=Dim|SpaceAfter=No	paesello
 22	,	,	PUNCT	FF	_	_	_	_	_	*
 23	guardò	guardare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	*
 24	fiso	fisso	ADV	S	_	_	_	_	Style=Arch	fiso
@@ -10849,7 +10849,7 @@
 84-85	alla	_	_	_	_	_	_	_	_	*
 84	a	a	ADP	E	_	_	_	_	_	*
 85	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	_	*
-86	casuccia	casa	NOUN	S	Gender=Fem|Number=Sing	_	_	_	Degree=End	casuccia
+86	casuccia	casa	NOUN	S	Gender=Fem|Number=Sing	_	_	_	Degree=Dim	casuccia
 87	a	a	ADP	E	_	_	_	_	_	*
 88	cui	cui	PRON	PR	PronType=Rel	_	_	_	_	*
 89	egli	egli	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	_	*
