@@ -1271,7 +1271,7 @@
 18	divideva	dividere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	_	*
 19	in	in	ADP	E	_	_	_	_	_	*
 20	due	due	NUM	N	NumType=Card	_	_	_	_	*
-21	viottole	viottola	NOUN	S	Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No	*
+21	viottole	via	NOUN	S	Gender=Fem|Number=Plur	_	_	_	Degree=Dim|SpaceAfter=No	viottola
 22	,	,	PUNCT	FF	_	_	_	_	_	*
 23	a	a	ADP	E	_	_	_	_	_	*
 24	foggia	foggia	NOUN	S	Gender=Fem|Number=Sing	_	_	_	_	*
@@ -1334,7 +1334,7 @@
 4	di	di	ADP	E	_	_	_	_	_	*
 5	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	_	_	_	_	*
 6	due	due	NUM	N	NumType=Card	_	_	_	_	*
-7	viottole	viottola	NOUN	S	Gender=Fem|Number=Plur	_	_	_	Degree=Dim|SpaceAfter=No	*
+7	viottole	via	NOUN	S	Gender=Fem|Number=Plur	_	_	_	Degree=Dim|SpaceAfter=No	viottola
 8	,	,	PUNCT	FF	_	_	_	_	_	*
 9	in	in	ADP	E	_	_	_	_	_	*
 10	vece	vece	NOUN	S	Gender=Fem|Number=Sing	_	_	_	_	*
@@ -1434,7 +1434,7 @@
 95	sur	su	ADP	E	_	_	_	_	Style=Arch	sur
 96	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	_	_	_	_	*
 97	fondo	fondo	NOUN	S	Gender=Masc|Number=Sing	_	_	_	_	*
-98	bigiognolo	bigiognolo	ADJ	A	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No	*
+98	bigiognolo	bigio	ADJ	A	Gender=Masc|Number=Sing	_	_	_	Degree=Dim|SpaceAfter=No	bigiognolo
 99	,	,	PUNCT	FF	_	_	_	_	_	*
 100	con	con	ADP	E	_	_	_	_	_	*
 101	qualche	qualche	DET	DI	Number=Sing|PronType=Ind	_	_	_	_	*
@@ -1510,7 +1510,7 @@
 20	di	di	ADP	E	_	_	_	_	_	*
 21	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	_	_	_	_	*
 22	due	due	NUM	N	NumType=Card	_	_	_	_	*
-23	viottole	viottola	NOUN	S	Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No	*
+23	viottole	via	NOUN	S	Gender=Fem|Number=Plur	_	_	_	Degree=Dim|SpaceAfter=No	viottola
 24	:	:	PUNCT	FC	_	_	_	_	_	*
 25	un	uno	PRON	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	_	_	_	_	*
 26	di	di	ADP	E	_	_	_	_	_	*
@@ -1621,7 +1621,7 @@
 5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	_	*
 6	capo	capo	NOUN	S	Gender=Masc|Number=Sing	_	_	_	_	*
 7	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	_	_	_	_	*
-8	reticella	reticella	NOUN	S	Gender=Fem|Number=Sing	_	_	_	_	*
+8	reticella	rete	NOUN	S	Gender=Fem|Number=Sing	_	_	_	Degree=Dim	reticella
 9	verde	verde	ADJ	A	Number=Sing	_	_	_	SpaceAfter=No	*
 10	,	,	PUNCT	FF	_	_	_	_	_	*
 11	che	che	PRON	PR	PronType=Rel	_	_	_	_	*
@@ -1698,7 +1698,7 @@
 78	fuori	fuori	ADP	B	_	_	_	_	_	*
 79	d'	di	ADP	E	_	_	_	_	SpaceAfter=No	*
 80	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	_	_	_	_	*
-81	taschino	taschino	NOUN	S	Gender=Masc|Number=Sing	_	_	_	_	*
+81	taschino	tasca	NOUN	S	Gender=Masc|Number=Sing	_	_	_	Degree=Dim	taschino
 82-83	degli	_	_	_	_	_	_	_	_	*
 82	di	di	ADP	E	_	_	_	_	_	*
 83	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	_	_	_	_	*
@@ -4125,7 +4125,7 @@
 7	volta	volta	NOUN	S	Gender=Fem|Number=Sing	_	_	_	_	*
 8	l'	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	SpaceAfter=No	*
 9	altro	altro	ADJ	A	Gender=Masc|Number=Sing	_	_	_	_	*
-10	compagnone	compagnone	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No	*
+10	compagnone	compagno	NOUN	S	Gender=Masc|Number=Sing	_	_	_	Degree=Aug|SpaceAfter=No	compagnone
 11	,	,	PUNCT	FF	_	_	_	_	_	*
 12	che	che	PRON	PR	PronType=Rel	_	_	_	_	*
 13	non	non	ADV	BN	PronType=Neg	_	_	_	_	*

@@ -199,7 +199,7 @@
 26	febbre	febbre	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No	*
 27	)	)	PUNCT	FB	_	_	_	_	_	*
 28	che	che	SCONJ	CS	_	_	_	_	_	*
-29	non	non	PART	BN	PronType=Neg	_	_	_	_	*
+29	non	non	ADV	BN	PronType=Neg	_	_	_	_	*
 30	volesse	volere	AUX	VA	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	_	*
 31	lasciar	lasciare	AUX	V	VerbForm=Inf	_	_	_	Variant=Apoc	*
 32	credere	credere	VERB	V	VerbForm=Inf	_	_	_	SpaceAfter=No	*
@@ -259,7 +259,7 @@
 19	qui	qui	ADV	B	_	_	_	_	_	*
 20	don	don	NOUN	S	Gender=Masc|Number=Sing	_	_	_	_	*
 21	Abbondio	Abbondio	PROPN	SP	_	_	_	_	_	*
-22	non	non	PART	BN	PronType=Neg	_	_	_	_	*
+22	non	non	ADV	BN	PronType=Neg	_	_	_	_	*
 23	trovava	trovare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	*
 24	inciampo	inciampo	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No	*
 25	;	;	PUNCT	FC	_	_	_	_	_	*
@@ -288,7 +288,7 @@
 47	qualche	qualche	DET	DI	Number=Sing|PronType=Ind	_	_	_	_	*
 48	cosa	cosa	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No	*
 49	,	,	PUNCT	FF	_	_	_	_	_	*
-50	non	non	PART	BN	PronType=Neg	_	_	_	_	*
+50	non	non	ADV	BN	PronType=Neg	_	_	_	_	*
 51	c'	ci	ADV	BN	_	_	_	_	SpaceAfter=No	*
 52	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	_	*
 53	bisogno	bisogno	NOUN	S	Gender=Masc|Number=Sing	_	_	_	_	*
@@ -365,13 +365,13 @@
 
 # sent_id = 12
 # text = Non hanno discrezione: ma se non lo piglia al volo …»
-1	Non	non	PART	BN	PronType=Neg	_	_	_	_	*
+1	Non	non	ADV	BN	PronType=Neg	_	_	_	_	*
 2	hanno	avere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	_	*
 3	discrezione	discrezione	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No	*
 4	:	:	PUNCT	FC	_	_	_	_	_	*
 5	ma	ma	CCONJ	CC	_	_	_	_	_	*
 6	se	se	SCONJ	CS	_	_	_	_	_	*
-7	non	non	PART	BN	PronType=Neg	_	_	_	_	*
+7	non	non	ADV	BN	PronType=Neg	_	_	_	_	*
 8	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	_	*
 9	piglia	pigliare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	_	*
 10-11	al	_	_	_	_	_	_	_	_	*
@@ -387,7 +387,7 @@
 2	Già	già	INTJ	I	_	_	_	_	SpaceAfter=No	*
 3	:	:	PUNCT	FC	_	_	_	_	_	*
 4	se	se	SCONJ	CS	_	_	_	_	_	*
-5	non	non	PART	BN	PronType=Neg	_	_	_	_	*
+5	non	non	ADV	BN	PronType=Neg	_	_	_	_	*
 6	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	_	*
 7	piglio	pigliare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	_	*
 8	ora	ora	ADV	B	_	_	_	_	SpaceAfter=No	*
@@ -584,7 +584,7 @@
 11	di	di	ADP	E	_	_	_	_	_	*
 12	quelle	quello	PRON	PD	Gender=Fem|Number=Plur|PronType=Dem	_	_	_	_	*
 13	che	che	PRON	PR	PronType=Rel	_	_	_	_	*
-14	non	non	PART	BN	PronType=Neg	_	_	_	_	*
+14	non	non	ADV	BN	PronType=Neg	_	_	_	_	*
 15	sanno	sapere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	_	*
 16	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	_	_	_	_	*
 17	cose	cosa	NOUN	S	Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No	*
@@ -601,7 +601,7 @@
 28	dire	dire	VERB	V	VerbForm=Inf	_	_	_	_	*
 29	che	che	SCONJ	CS	_	_	_	_	_	*
 30	voi	voi	PRON	PE	Number=Plur|Person=2|PronType=Prs	_	_	_	_	*
-31	non	non	PART	BN	PronType=Neg	_	_	_	_	*
+31	non	non	ADV	BN	PronType=Neg	_	_	_	_	*
 32	vi	vi	PRON	PC	Clitic=Yes|Number=Plur|Person=2|PronType=Prs	_	_	_	_	*
 33	siete	essere	AUX	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	_	_	_	_	*
 34	maritata	maritare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	_	*
@@ -615,7 +615,7 @@
 42	Lunghigna	Lunghigna	PROPN	SP	_	_	_	_	SpaceAfter=No	*
 43	,	,	PUNCT	FF	_	_	_	_	_	*
 44	perché	perché	SCONJ	CS	_	_	_	_	_	*
-45	non	non	PART	BN	PronType=Neg	_	_	_	_	*
+45	non	non	ADV	BN	PronType=Neg	_	_	_	_	*
 46	v'	vi	PRON	PC	Clitic=Yes|Number=Plur|Person=2|PronType=Prs	_	_	_	SpaceAfter=No	*
 47	hanno	avere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	_	*
 48	voluta	volere	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	SpaceAfter=No	*
@@ -669,13 +669,13 @@
 # sent_id = 26
 # text = «Non me lo domandate, che non mi piace metter male.»
 1	«	«	PUNCT	FB	_	_	_	_	SpaceAfter=No	*
-2	Non	non	PART	BN	PronType=Neg	_	_	_	_	*
+2	Non	non	ADV	BN	PronType=Neg	_	_	_	_	*
 3	me	me	PRON	PE	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	_	_	_	_	*
 4	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	_	*
 5	domandate	domandare	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No	*
 6	,	,	PUNCT	FF	_	_	_	_	_	*
 7	che	che	SCONJ	PR	_	_	_	_	_	*
-8	non	non	PART	BN	PronType=Neg	_	_	_	_	*
+8	non	non	ADV	BN	PronType=Neg	_	_	_	_	*
 9	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	_	_	_	_	*
 10	piace	piacere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	_	*
 11	metter	mettere	VERB	V	VerbForm=Inf	_	_	_	Variant=Apoc	*
@@ -708,7 +708,7 @@
 2	Basta	bastare	INTJ	S	_	_	_	_	_	*
 3	…	…	PUNCT	FF	_	_	_	_	_	*
 4	ma	ma	CCONJ	CC	_	_	_	_	_	*
-5	non	non	PART	BN	PronType=Neg	_	_	_	_	*
+5	non	non	ADV	BN	PronType=Neg	_	_	_	_	*
 6	potete	potere	AUX	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	_	_	_	_	*
 7	credere	credere	VERB	V	VerbForm=Inf	_	_	_	_	*
 8	quanto	quanto	ADV	B	PronType=Int	_	_	_	_	*
@@ -716,7 +716,7 @@
 10	sia	essere	AUX	VA	Mood=Sub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	_	*
 11	dispiaciuto	dispiacere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	_	*
 12	di	di	ADP	E	_	_	_	_	_	*
-13	non	non	PART	BN	PronType=Neg	_	_	_	_	*
+13	non	non	ADV	BN	PronType=Neg	_	_	_	_	*
 14	saper	sapere	VERB	V	VerbForm=Inf	_	_	_	Variant=Apoc	*
 15	bene	bene	ADV	B	_	_	_	_	_	*
 16	tutta	tutto	DET	T	Gender=Fem|Number=Sing|PronType=Tot	_	_	_	_	*
@@ -823,7 +823,7 @@
 12	,	,	PUNCT	FF	_	_	_	_	_	*
 13	tra	tra	ADP	E	_	_	_	_	_	*
 14	due	due	NUM	N	NumType=Card	_	_	_	_	*
-15	casipole	casupola	NOUN	S	Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|Style=Arch	casipola
+15	casipole	casa	NOUN	S	Gender=Fem|Number=Plur	_	_	_	Degree=Dim|SpaceAfter=No|Style=Arch	casipola
 16	,	,	PUNCT	FF	_	_	_	_	_	*
 17	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	_	_	_	_	*
 18	stradetta	strada	NOUN	S	Gender=Fem|Number=Sing	_	_	_	Degree=Dim|SpaceAfter=No	stradetta
@@ -878,7 +878,7 @@
 8	luogo	luogo	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No	*
 9	,	,	PUNCT	FF	_	_	_	_	_	*
 10	donde	donde	SCONJ	B	_	_	_	_	_	*
-11	non	non	PART	BN	PronType=Neg	_	_	_	_	*
+11	non	non	ADV	BN	PronType=Neg	_	_	_	_	*
 12	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs|Reflex=Yes	_	_	_	_	*
 13	poteva	potere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	*
 14	più	più	ADV	B	Degree=Cmp	_	_	_	_	*
@@ -994,7 +994,7 @@
 16	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	_	_	_	_	*
 17	scale	scala	NOUN	S	Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No	*
 18	,	,	PUNCT	FF	_	_	_	_	_	*
-19	non	non	PART	BN	PronType=Neg	_	_	_	_	*
+19	non	non	ADV	BN	PronType=Neg	_	_	_	_	*
 20	facendo	fare	VERB	V	VerbForm=Conv	_	_	_	_	*
 21	rumore	rumore	NOUN	S	Gender=Masc|Number=Sing	_	_	_	_	*
 22	neppur	neppure	ADV	B	PronType=Neg	_	_	_	Variant=Apoc	*
@@ -1411,7 +1411,7 @@
 8	ammalato	ammalato	ADJ	V	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No	*
 9	,	,	PUNCT	FF	_	_	_	_	_	*
 10	e	e	CCONJ	CC	_	_	_	_	_	*
-11	non	non	PART	BN	PronType=Neg	_	_	_	_	*
+11	non	non	ADV	BN	PronType=Neg	_	_	_	_	*
 12	so	sapere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	_	*
 13	quando	quando	ADV	CS	PronType=Int	_	_	_	_	*
 14	potrò	potere	AUX	VM	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	_	_	_	_	*
@@ -1697,7 +1697,7 @@
 
 # sent_id = 62
 # text = Non vi fidate di me?»
-1	Non	non	PART	BN	PronType=Neg	_	_	_	_	*
+1	Non	non	ADV	BN	PronType=Neg	_	_	_	_	*
 2	vi	vi	PRON	PC	Clitic=Yes|Number=Plur|Person=2|PronType=Prs	_	_	_	_	*
 3	fidate	fidare	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	_	_	_	_	*
 4	di	di	ADP	E	_	_	_	_	_	*
@@ -1794,7 +1794,7 @@
 14	a	a	ADP	E	_	_	_	_	_	*
 15	sé	sé	PRON	PC	Person=3|PronType=Prs|Reflex=Yes	_	_	_	_	*
 16	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	_	_	_	_	*
-17	cassetta	cassetta	NOUN	S	Gender=Fem|Number=Sing	_	_	_	_	*
+17	cassetta	cassa	NOUN	S	Gender=Fem|Number=Sing	_	_	_	Degree=Dim	cassetta
 18-19	del	_	_	_	_	_	_	_	_	*
 18	di	di	ADP	E	_	_	_	_	_	*
 19	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	_	*
@@ -1929,7 +1929,7 @@
 7	sua	suo	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	_	_	_	_	*
 8	scrittura	scrittura	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No	*
 9	,	,	PUNCT	FF	_	_	_	_	_	*
-10	non	non	PART	BN	PronType=Neg	_	_	_	_	*
+10	non	non	ADV	BN	PronType=Neg	_	_	_	_	*
 11	badava	badare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	*
 12	ad	a	ADP	E	_	_	_	_	_	*
 13	altro	altro	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	_	_	_	SpaceAfter=No	*
@@ -1978,7 +1978,7 @@
 35	che	che	SCONJ	PR	_	_	_	_	_	*
 36	da	da	ADP	E	_	_	_	_	_	*
 37	sé	sé	PRON	PE	Person=3|PronType=Prs|Reflex=Yes	_	_	_	_	*
-38	non	non	PART	BN	PronType=Neg	_	_	_	_	*
+38	non	non	ADV	BN	PronType=Neg	_	_	_	_	*
 39	vi	vi	ADV	B	_	_	_	_	_	*
 40	sarebbe	essere	AUX	VA	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	_	*
 41	potuta	potere	AUX	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	_	*
@@ -2190,7 +2190,7 @@
 1	Le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	_	_	_	_	*
 2	sue	suo	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	_	_	_	_	*
 3	labbra	labbro	NOUN	S	Gender=Fem|Number=Plur	_	_	_	_	*
-4	non	non	PART	BN	PronType=Neg	_	_	_	_	*
+4	non	non	ADV	BN	PronType=Neg	_	_	_	_	*
 5	erano	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	*
 6	ancora	ancora	ADV	B	_	_	_	_	_	*
 7	tornate	tornare	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	_	_	_	_	*
@@ -2414,7 +2414,7 @@
 22	affatto	affatto	ADV	B	_	_	_	_	_	*
 23	smarrita	smarrito	ADJ	A	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No	*
 24	,	,	PUNCT	FF	_	_	_	_	_	*
-25	non	non	PART	BN	PronType=Neg	_	_	_	_	*
+25	non	non	ADV	BN	PronType=Neg	_	_	_	_	*
 26	tentava	tentare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	*
 27	neppure	neppure	ADV	BN	PronType=Neg	_	_	_	_	*
 28	di	di	ADP	E	_	_	_	_	_	*
@@ -2554,7 +2554,7 @@
 44	,	,	PUNCT	FF	_	_	_	_	_	*
 45	apra	aprire	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No	*
 46	;	;	PUNCT	FC	_	_	_	_	_	*
-47	non	non	PART	BN	PronType=Neg	_	_	_	_	*
+47	non	non	ADV	BN	PronType=Neg	_	_	_	_	*
 48	faccia	fare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	_	*
 49	schiamazzo	schiamazzo	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No	*
 50	»	»	PUNCT	FB	_	_	_	_	SpaceAfter=No	*
@@ -2642,7 +2642,7 @@
 5	serra	serrare	VERB	S	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	_	_	_	_	*
 6	serra	serrare	VERB	S	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No	*
 7	,	,	PUNCT	FF	_	_	_	_	_	*
-8	non	non	PART	BN	PronType=Neg	_	_	_	_	*
+8	non	non	ADV	BN	PronType=Neg	_	_	_	_	*
 9	possiam	potere	AUX	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	Variant=Apoc	*
 10	lasciar	lasciare	VERB	V	VerbForm=Inf	_	_	_	Variant=Apoc	*
 11	di	di	ADP	E	_	_	_	_	_	*
@@ -2780,7 +2780,7 @@
 5	che	che	SCONJ	CS	_	_	_	_	_	*
 6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	_	*
 7	nemico	nemico	NOUN	S	Gender=Masc|Number=Sing	_	_	_	_	*
-8	non	non	PART	BN	PronType=Neg	_	_	_	_	*
+8	non	non	ADV	BN	PronType=Neg	_	_	_	_	*
 9	dava	dare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	*
 10	segno	segno	NOUN	S	Gender=Masc|Number=Sing	_	_	_	_	*
 11	di	di	ADP	E	_	_	_	_	_	*
@@ -2885,7 +2885,7 @@
 6	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	_	*
 7	sguardo	sguardo	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No	*
 8	,	,	PUNCT	FF	_	_	_	_	_	*
-9	non	non	PART	BN	PronType=Neg	_	_	_	_	*
+9	non	non	ADV	BN	PronType=Neg	_	_	_	_	*
 10	appariva	apparire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	*
 11	indizio	indizio	NOUN	S	Gender=Masc|Number=Sing	_	_	_	_	*
 12	di	di	ADP	E	_	_	_	_	_	*
@@ -3212,7 +3212,7 @@
 7	mariti	marito	NOUN	S	Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No	*
 8	,	,	PUNCT	FF	_	_	_	_	_	*
 9	di	di	ADP	E	_	_	_	_	_	*
-10	non	non	PART	BN	PronType=Neg	_	_	_	_	*
+10	non	non	ADV	BN	PronType=Neg	_	_	_	_	*
 11-12	moversi	_	_	_	_	_	_	_	SpaceAfter=No	*
 11	movere	muovere	VERB	V	VerbForm=Inf	_	_	_	Style=Arch	movere
 12	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs|Reflex=Yes	_	_	_	_	*
@@ -3311,7 +3311,7 @@
 28	che	che	PRON	PR	PronType=Rel	_	_	_	_	*
 29	vegliavano	vegliare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No	*
 30	,	,	PUNCT	FF	_	_	_	_	_	*
-31	non	non	PART	BN	PronType=Neg	_	_	_	_	*
+31	non	non	ADV	BN	PronType=Neg	_	_	_	_	*
 32	lontano	lontano	ADV	B	_	_	_	_	SpaceAfter=No	*
 33	,	,	PUNCT	FF	_	_	_	_	_	*
 34	ritte	ritto	ADJ	B	Gender=Fem|Number=Plur	_	_	_	_	*
@@ -3424,7 +3424,7 @@
 55	in	in	ADP	E	_	_	_	_	_	*
 56	fatti	fatto	NOUN	S	Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No	*
 57	,	,	PUNCT	FF	_	_	_	_	_	*
-58	non	non	PART	BN	PronType=Neg	_	_	_	_	*
+58	non	non	ADV	BN	PronType=Neg	_	_	_	_	*
 59	incontrarono	incontrare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	*
 60	anima	anima	NOUN	S	Gender=Fem|Number=Sing	_	_	_	_	*
 61	vivente	vivente	ADJ	A	Number=Sing	_	_	_	SpaceAfter=No	*
@@ -3460,7 +3460,7 @@
 18	tutte	tutto	PRON	PI	Gender=Fem|Number=Plur|PronType=Tot	_	_	_	SpaceAfter=No	*
 19	,	,	PUNCT	FF	_	_	_	_	_	*
 20	giacché	giacché	SCONJ	CS	_	_	_	_	_	*
-21	non	non	PART	BN	PronType=Neg	_	_	_	_	*
+21	non	non	ADV	BN	PronType=Neg	_	_	_	_	*
 22	c'	ci	ADV	PC	_	_	_	_	SpaceAfter=No	*
 23	era	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	*
 24	più	più	ADV	B	Degree=Cmp	_	_	_	_	*
@@ -3739,7 +3739,7 @@
 26	sconficcare	sconficcare	VERB	V	VerbForm=Inf	_	_	_	_	*
 27	adagio	adagio	ADV	A	_	_	_	_	_	*
 28	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	_	*
-29	paletto	paletto	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No	*
+29	paletto	palo	NOUN	S	Gender=Masc|Number=Sing	_	_	_	Degree=Dim|SpaceAfter=No	paletto
 30	,	,	PUNCT	FF	_	_	_	_	_	*
 31	per	per	ADP	E	_	_	_	_	_	*
 32	aver	avere	VERB	V	VerbForm=Inf	_	_	_	Variant=Apoc	*
@@ -3860,7 +3860,7 @@
 21	sentire	sentire	VERB	V	VerbForm=Inf	_	_	_	SpaceAfter=No	*
 22	:	:	PUNCT	FC	_	_	_	_	_	*
 23	meglio	meglio	ADV	B	Degree=Cmp	_	_	_	_	*
-24	non	non	PART	BN	PronType=Neg	_	_	_	_	*
+24	non	non	ADV	BN	PronType=Neg	_	_	_	_	*
 25	può	potere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	_	*
 26	andare	andare	VERB	V	VerbForm=Inf	_	_	_	SpaceAfter=No	*
 27	.	.	PUNCT	FS	_	_	_	_	_	*
@@ -3939,7 +3939,7 @@
 29	ci	ci	ADV	PC	_	_	_	_	_	*
 30	sia	essere	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No	*
 31	:	:	PUNCT	FC	_	_	_	_	_	*
-32	non	non	PART	BN	PronType=Neg	_	_	_	_	*
+32	non	non	ADV	BN	PronType=Neg	_	_	_	_	*
 33	c'	ci	ADV	PC	_	_	_	_	SpaceAfter=No	*
 34	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	_	*
 35	nessuno	nessuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Neg|PronType=Ind	_	_	_	SpaceAfter=No	*
@@ -4558,7 +4558,7 @@
 6	foglia	foglia	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No	*
 7	,	,	PUNCT	FF	_	_	_	_	_	*
 8	e	e	CCONJ	CC	_	_	_	_	_	*
-9	non	non	PART	BN	PronType=Neg	_	_	_	_	*
+9	non	non	ADV	BN	PronType=Neg	_	_	_	_	*
 10	tenta	tentare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	_	*
 11	neppur	neppure	ADV	B	PronType=Neg	_	_	_	Variant=Apoc	*
 12	di	di	ADP	E	_	_	_	_	_	*
@@ -4784,7 +4784,7 @@
 11	viso	viso	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No	*
 12	:	:	PUNCT	FC	_	_	_	_	_	*
 13	ma	ma	CCONJ	CC	_	_	_	_	_	*
-14	non	non	PART	BN	PronType=Neg	_	_	_	_	*
+14	non	non	ADV	BN	PronType=Neg	_	_	_	_	*
 15	poterono	potere	AUX	VM	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	*
 16	star	stare	VERB	V	VerbForm=Inf	_	_	_	Variant=Apoc	*
 17	saldi	saldo	ADJ	A	Gender=Masc|Number=Plur	_	_	_	_	*
@@ -4795,7 +4795,7 @@
 22	,	,	PUNCT	FF	_	_	_	_	_	*
 23	e	e	CCONJ	CC	_	_	_	_	_	*
 24	che	che	PRON	PR	PronType=Rel	_	_	_	_	*
-25	non	non	PART	BN	PronType=Neg	_	_	_	_	*
+25	non	non	ADV	BN	PronType=Neg	_	_	_	_	*
 26	s'	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs|Reflex=Yes	_	_	_	SpaceAfter=No	*
 27	era	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	*
 28	fatto	fare	AUX	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	_	*
@@ -4834,7 +4834,7 @@
 16	fosse	essere	AUX	VA	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	_	*
 17	ritirata	ritirata	NOUN	S	Gender=Fem|Number=Sing	_	_	_	_	*
 18	e	e	CCONJ	CC	_	_	_	_	_	*
-19	non	non	PART	BN	PronType=Neg	_	_	_	_	*
+19	non	non	ADV	BN	PronType=Neg	_	_	_	_	*
 20	fuga	fuga	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No	*
 21	.	.	PUNCT	FS	_	_	_	_	_	*
 
@@ -5191,7 +5191,7 @@
 
 # sent_id = 151
 # text = Non c'era che ridire: Agnese, per non farle nascere qualche sospetto, aveva dovuto voltar con lei, e andarle dietro, cercando però di trattenerla, ogni volta che la vedesse riscaldata ben bene nel racconto di que' tali matrimoni andati a monte.
-1	Non	non	PART	BN	PronType=Neg	_	_	_	_	*
+1	Non	non	ADV	BN	PronType=Neg	_	_	_	_	*
 2	c'	ci	ADV	PC	_	_	_	_	SpaceAfter=No	*
 3	era	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	*
 4	che	che	SCONJ	CS	_	_	_	_	_	*
@@ -5200,7 +5200,7 @@
 7	Agnese	Agnese	PROPN	SP	_	_	_	_	SpaceAfter=No	*
 8	,	,	PUNCT	FF	_	_	_	_	_	*
 9	per	per	ADP	E	_	_	_	_	_	*
-10	non	non	PART	BN	PronType=Neg	_	_	_	_	*
+10	non	non	ADV	BN	PronType=Neg	_	_	_	_	*
 11-12	farle	_	_	_	_	_	_	_	_	*
 11	far	fare	AUX	V	VerbForm=Inf	_	_	_	Variant=Apoc	*
 12	le	le	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	_	*
@@ -5342,7 +5342,7 @@
 8	tre	tre	NUM	N	NumType=Card	_	_	_	SpaceAfter=No	*
 9	,	,	PUNCT	FF	_	_	_	_	_	*
 10	a	a	ADP	E	_	_	_	_	_	*
-11	non	non	PART	BN	PronType=Neg	_	_	_	_	*
+11	non	non	ADV	BN	PronType=Neg	_	_	_	_	*
 12	concertar	concertare	VERB	V	VerbForm=Inf	_	_	_	Variant=Apoc	*
 13	qualche	qualche	DET	DI	Number=Sing|PronType=Ind	_	_	_	_	*
 14	segnale	segnale	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No	*
@@ -5374,7 +5374,7 @@
 3	fatta	fare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	SpaceAfter=No	*
 4	:	:	PUNCT	FC	_	_	_	_	_	*
 5	ora	ora	ADV	B	_	_	_	_	_	*
-6	non	non	PART	BN	PronType=Neg	_	_	_	_	*
+6	non	non	ADV	BN	PronType=Neg	_	_	_	_	*
 7	c'	ci	ADV	PC	_	_	_	_	SpaceAfter=No	*
 8	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	_	*
 9	altro	altro	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	_	_	_	_	*
@@ -5427,7 +5427,7 @@
 20	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	_	*
 21	quale	quale	PRON	PR	Number=Sing|PronType=Rel	_	_	_	_	*
 22	però	però	ADV	C	_	_	_	_	_	*
-23	non	non	PART	BN	PronType=Neg	_	_	_	_	*
+23	non	non	ADV	BN	PronType=Neg	_	_	_	_	*
 24	vedevano	vedere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No	*
 25	,	,	PUNCT	FF	_	_	_	_	_	*
 26	per	per	ADP	E	_	_	_	_	_	*
@@ -5562,7 +5562,7 @@
 1	«	«	PUNCT	FB	_	_	_	_	SpaceAfter=No	*
 2	Misericordia	misericordia	INTJ	S	_	_	_	_	SpaceAfter=No	*
 3	!	!	PUNCT	FS	_	_	_	_	_	*
-4	non	non	PART	BN	PronType=Neg	_	_	_	_	*
+4	non	non	ADV	BN	PronType=Neg	_	_	_	_	*
 5	avete	avere	AUX	VA	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	_	_	_	_	*
 6	sentito	sentire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	SpaceAfter=No	*
 7	?	?	PUNCT	FS	_	_	_	_	SpaceAfter=No	*
@@ -5856,7 +5856,7 @@
 8	era	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	*
 9	maggiore	maggiore	ADJ	A	Degree=Cmp|Number=Sing	_	_	_	SpaceAfter=No	*
 10	,	,	PUNCT	FF	_	_	_	_	_	*
-11	non	non	PART	BN	PronType=Neg	_	_	_	_	*
+11	non	non	ADV	BN	PronType=Neg	_	_	_	_	*
 12	domandò	domandare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	*
 13	altro	altro	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	_	_	_	SpaceAfter=No	*
 14	,	,	PUNCT	FF	_	_	_	_	_	*
@@ -6252,7 +6252,7 @@
 19	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	_	*
 20	cielo	cielo	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No	*
 21	,	,	PUNCT	FF	_	_	_	_	_	*
-22	non	non	PART	BN	PronType=Neg	_	_	_	_	*
+22	non	non	ADV	BN	PronType=Neg	_	_	_	_	*
 23	c'	ci	ADV	PC	_	_	_	_	SpaceAfter=No	*
 24	era	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	*
 25	ancora	ancora	ADV	B	_	_	_	_	_	*
@@ -6297,7 +6297,7 @@
 
 # sent_id = 186
 # text = Non s'eran forse allontanati un cinquanta passi, quando la gente cominciò ad accorrere sulla piazza, e ingrossava ogni momento.
-1	Non	non	PART	BN	PronType=Neg	_	_	_	_	*
+1	Non	non	ADV	BN	PronType=Neg	_	_	_	_	*
 2	s'	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs|Reflex=Yes	_	_	_	SpaceAfter=No	*
 3	eran	essere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Variant=Apoc	*
 4	forse	forse	ADV	B	_	_	_	_	_	*
@@ -6560,7 +6560,7 @@
 42	«	«	PUNCT	FB	_	_	_	_	SpaceAfter=No	*
 43	come	come	ADV	B	PronType=Exc	_	_	_	SpaceAfter=No	*
 44	!	!	PUNCT	FS	_	_	_	_	_	*
-45	non	non	PART	BN	PronType=Neg	_	_	_	_	*
+45	non	non	ADV	BN	PronType=Neg	_	_	_	_	*
 46	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	_	*
 47	sapete	sapere	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No	*
 48	?	?	PUNCT	FS	_	_	_	_	_	*
@@ -6629,7 +6629,7 @@
 13	chiuso	chiuso	ADJ	V	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No	*
 14	,	,	PUNCT	FF	_	_	_	_	_	*
 15	e	e	CCONJ	CC	_	_	_	_	_	*
-16	non	non	PART	BN	PronType=Neg	_	_	_	_	*
+16	non	non	ADV	BN	PronType=Neg	_	_	_	_	*
 17	par	parere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Variant=Apoc	*
 18	che	che	SCONJ	CS	_	_	_	_	_	*
 19	sia	essere	AUX	VA	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	_	*
@@ -6645,14 +6645,14 @@
 4	anche	anche	ADV	B	_	_	_	_	_	*
 5	loro	loro	PRON	PE	Number=Plur|Person=3|PronType=Prs	_	_	_	SpaceAfter=No	*
 6	:	:	PUNCT	FC	_	_	_	_	_	*
-7	non	non	PART	BN	PronType=Neg	_	_	_	_	*
+7	non	non	ADV	BN	PronType=Neg	_	_	_	_	*
 8	c'	ci	ADV	PC	_	_	_	_	SpaceAfter=No	*
 9	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	_	*
 10	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	_	_	_	_	*
 11	finestra	finestra	NOUN	S	Gender=Fem|Number=Sing	_	_	_	_	*
 12	aperta	aperto	ADJ	A	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No	*
 13	:	:	PUNCT	FC	_	_	_	_	_	*
-14	non	non	PART	BN	PronType=Neg	_	_	_	_	*
+14	non	non	ADV	BN	PronType=Neg	_	_	_	_	*
 15	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs|Reflex=Yes	_	_	_	_	*
 16	sente	sentire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	_	*
 17	uno	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	_	_	_	_	*
@@ -6826,7 +6826,7 @@
 # sent_id = 210
 # text = «Non c'è più nessuno: vi ringrazio: tornate pure a casa.»
 1	«	«	PUNCT	FB	_	_	_	_	SpaceAfter=No	*
-2	Non	non	PART	BN	PronType=Neg	_	_	_	_	*
+2	Non	non	ADV	BN	PronType=Neg	_	_	_	_	*
 3	c'	ci	ADV	PC	_	_	_	_	SpaceAfter=No	*
 4	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	_	*
 5	più	più	ADV	B	Degree=Cmp	_	_	_	_	*
@@ -6888,7 +6888,7 @@
 16	a	a	ADP	E	_	_	_	_	_	*
 17	casa	casa	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No	*
 18	;	;	PUNCT	FC	_	_	_	_	_	*
-19	non	non	PART	BN	PronType=Neg	_	_	_	_	*
+19	non	non	ADV	BN	PronType=Neg	_	_	_	_	*
 20	c'	ci	ADV	PC	_	_	_	_	SpaceAfter=No	*
 21	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	_	*
 22	più	più	ADV	B	Degree=Cmp	_	_	_	_	*
@@ -7040,7 +7040,7 @@
 12	,	,	PUNCT	FF	_	_	_	_	_	*
 13	figliuoli	figliolo	NOUN	S	Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Style=Arch	figliuolo
 14	?	?	PUNCT	FS	_	_	_	_	_	*
-15	non	non	PART	BN	PronType=Neg	_	_	_	_	*
+15	non	non	ADV	BN	PronType=Neg	_	_	_	_	*
 16	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	_	*
 17	qui	qui	ADV	B	_	_	_	_	_	*
 18	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	_	*
@@ -7601,7 +7601,7 @@
 8	uno	uno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	_	_	_	_	*
 9	(	(	PUNCT	FB	_	_	_	_	SpaceAfter=No	*
 10	e	e	CCONJ	CC	_	_	_	_	_	*
-11	non	non	PART	BN	PronType=Neg	_	_	_	_	*
+11	non	non	ADV	BN	PronType=Neg	_	_	_	_	*
 12	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs|Reflex=Yes	_	_	_	_	*
 13	seppe	sapere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	*
 14	mai	mai	ADV	B	_	_	_	_	_	*
@@ -7642,7 +7642,7 @@
 6	ottenne	ottenere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	*
 7	credenza	credenza	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No	*
 8	;	;	PUNCT	FC	_	_	_	_	_	*
-9	non	non	PART	BN	PronType=Neg	_	_	_	_	*
+9	non	non	ADV	BN	PronType=Neg	_	_	_	_	*
 10	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs|Reflex=Yes	_	_	_	_	*
 11	parlò	parlare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	*
 12	più	più	ADV	B	Degree=Cmp	_	_	_	_	*
@@ -7745,14 +7745,14 @@
 1	Fatti	fatto	NOUN	S	Gender=Masc|Number=Plur	_	_	_	_	*
 2	però	però	ADV	C	_	_	_	_	SpaceAfter=No	*
 3	,	,	PUNCT	FF	_	_	_	_	_	*
-4	non	non	PART	BN	PronType=Neg	_	_	_	_	*
+4	non	non	ADV	BN	PronType=Neg	_	_	_	_	*
 5	ce	ci	ADV	PC	_	_	_	_	_	*
 6	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	_	_	_	_	*
 7	fu	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	*
 8	altri	altro	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	_	_	_	SpaceAfter=No	*
 9	;	;	PUNCT	FC	_	_	_	_	_	*
 10	se	se	SCONJ	CS	_	_	_	_	_	*
-11	non	non	PART	BN	PronType=Neg	_	_	_	_	*
+11	non	non	ADV	BN	PronType=Neg	_	_	_	_	*
 12	che	che	SCONJ	CS	_	_	_	_	SpaceAfter=No	*
 13	,	,	PUNCT	FF	_	_	_	_	_	*
 14	quella	quello	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	_	_	_	_	*
@@ -7891,7 +7891,7 @@
 134	,	,	PUNCT	FF	_	_	_	_	_	*
 135	se	se	SCONJ	CS	_	_	_	_	_	*
 136	pur	pure	ADV	B	_	_	_	_	Variant=Apoc	*
-137	non	non	PART	BN	PronType=Neg	_	_	_	_	*
+137	non	non	ADV	BN	PronType=Neg	_	_	_	_	*
 138	eran	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Variant=Apoc	*
 139	que'	quello	DET	PI	Gender=Masc|Number=Plur|PronType=Dem	_	_	_	Variant=Apoc	*
 140	medesimi	medesimo	PRON	PD	Gender=Masc|Number=Plur|PronType=Dem	_	_	_	SpaceAfter=No	*
@@ -7917,7 +7917,7 @@
 15	guardasse	guardare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	_	*
 16	bene	bene	ADV	B	_	_	_	_	_	*
 17	di	di	ADP	E	_	_	_	_	_	*
-18	non	non	PART	BN	PronType=Neg	_	_	_	_	*
+18	non	non	ADV	BN	PronType=Neg	_	_	_	_	*
 19	far	fare	VERB	V	VerbForm=Inf	_	_	_	Variant=Apoc	*
 20	deposizione	deposizione	NOUN	S	Gender=Fem|Number=Sing	_	_	_	_	*
 21-22	al	_	_	_	_	_	_	_	_	*
@@ -7930,7 +7930,7 @@
 26	accaduto	accaduto	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No	*
 27	,	,	PUNCT	FF	_	_	_	_	_	*
 28	di	di	ADP	E	_	_	_	_	_	*
-29	non	non	PART	BN	PronType=Neg	_	_	_	_	*
+29	non	non	ADV	BN	PronType=Neg	_	_	_	_	*
 30	rispondere	rispondere	VERB	V	VerbForm=Inf	_	_	_	_	*
 31	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	_	*
 32	vero	vero	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No	*
@@ -7942,11 +7942,11 @@
 38	interrogato	interrogare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	SpaceAfter=No	*
 39	,	,	PUNCT	FF	_	_	_	_	_	*
 40	di	di	ADP	E	_	_	_	_	_	*
-41	non	non	PART	BN	PronType=Neg	_	_	_	_	*
+41	non	non	ADV	BN	PronType=Neg	_	_	_	_	*
 42	ciarlare	ciarlare	VERB	V	VerbForm=Inf	_	_	_	SpaceAfter=No	*
 43	,	,	PUNCT	FF	_	_	_	_	_	*
 44	di	di	ADP	E	_	_	_	_	_	*
-45	non	non	PART	BN	PronType=Neg	_	_	_	_	*
+45	non	non	ADV	BN	PronType=Neg	_	_	_	_	*
 46	fomentar	fomentare	VERB	V	VerbForm=Inf	_	_	_	Variant=Apoc	*
 47	le	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	_	_	_	_	*
 48	ciarle	ciarla	NOUN	S	Gender=Fem|Number=Plur	_	_	_	_	*
@@ -8082,7 +8082,7 @@
 33	che	che	SCONJ	CS	_	_	_	_	_	*
 34	prendessero	prendere	VERB	V	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	_	*
 35	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	_	_	_	_	*
-36	non	non	PART	BN	PronType=Neg	_	_	_	_	*
+36	non	non	ADV	BN	PronType=Neg	_	_	_	_	*
 37	so	sapere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	_	*
 38	che	che	SCONJ	CS	_	_	_	_	_	*
 39	di	di	ADP	E	_	_	_	_	_	*
@@ -8113,7 +8113,7 @@
 10	disabitato	disabitato	ADJ	A	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No	*
 11	,	,	PUNCT	FF	_	_	_	_	_	*
 12	e	e	CCONJ	CC	_	_	_	_	_	*
-13	non	non	PART	BN	PronType=Neg	_	_	_	_	*
+13	non	non	ADV	BN	PronType=Neg	_	_	_	_	*
 14	sentendo	sentire	VERB	V	VerbForm=Conv	_	_	_	_	*
 15	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	_	_	_	_	*
 16	alito	alito	NOUN	S	Gender=Masc|Number=Sing	_	_	_	_	*
@@ -8353,7 +8353,7 @@
 7	perché	perché	SCONJ	CS	_	_	_	_	_	*
 8	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	_	_	_	_	*
 9	tuoi	tuo	PRON	PP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	_	_	_	_	*
-10	non	non	PART	BN	PronType=Neg	_	_	_	_	*
+10	non	non	ADV	BN	PronType=Neg	_	_	_	_	*
 11	abbiano	avere	AUX	VA	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	_	*
 12	a	a	ADP	E	_	_	_	_	_	*
 13	star	stare	VERB	V	VerbForm=Inf	_	_	_	Variant=Apoc	*
@@ -8424,7 +8424,7 @@
 10	raccomandò	raccomandare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	*
 11	molto	molto	ADV	B	_	_	_	_	_	*
 12	di	di	ADP	E	_	_	_	_	_	*
-13	non	non	PART	BN	PronType=Neg	_	_	_	_	*
+13	non	non	ADV	BN	PronType=Neg	_	_	_	_	*
 14	dir	dire	VERB	V	VerbForm=Inf	_	_	_	Variant=Apoc	*
 15	nulla	nulla	PRON	PI	PronType=Neg|PronType=Ind	_	_	_	_	*
 16-17	della	_	_	_	_	_	_	_	_	*
@@ -8595,7 +8595,7 @@
 28	quel	quello	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	_	_	_	Variant=Apoc	*
 29	pudore	pudore	NOUN	S	Gender=Masc|Number=Sing	_	_	_	_	*
 30	che	che	PRON	PR	PronType=Rel	_	_	_	_	*
-31	non	non	PART	BN	PronType=Neg	_	_	_	_	*
+31	non	non	ADV	BN	PronType=Neg	_	_	_	_	*
 32	nasce	nascere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	_	*
 33-34	dalla	_	_	_	_	_	_	_	_	*
 33	da	da	ADP	E	_	_	_	_	_	*
@@ -8770,7 +8770,7 @@
 # text = Visto che non ci mancava nessuno, «Dio sia benedetto!» disse, e fece lor cenno ch'entrassero.
 1	Visto	vedere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	_	*
 2	che	che	SCONJ	CS	_	_	_	_	_	*
-3	non	non	PART	BN	PronType=Neg	_	_	_	_	*
+3	non	non	ADV	BN	PronType=Neg	_	_	_	_	*
 4	ci	ci	ADV	PC	_	_	_	_	_	*
 5	mancava	mancare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	*
 6	nessuno	nessuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Neg|PronType=Ind	_	_	_	SpaceAfter=No	*
@@ -8845,7 +8845,7 @@
 49	minacciati	minacciato	NOUN	S	Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No	*
 50	:	:	PUNCT	FC	_	_	_	_	_	*
 51	e	e	CCONJ	CC	_	_	_	_	_	*
-52	non	non	PART	BN	PronType=Neg	_	_	_	_	*
+52	non	non	ADV	BN	PronType=Neg	_	_	_	_	*
 53	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs|Reflex=Yes	_	_	_	_	*
 54	richiedeva	richiedere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	*
 55	meno	meno	PRON	B	Degree=Cmp	_	_	_	_	*
@@ -8903,7 +8903,7 @@
 1	Allora	allora	ADV	B	_	_	_	_	_	*
 2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	_	*
 3	sagrestano	sagrestano	NOUN	S	Gender=Masc|Number=Sing	_	_	_	_	*
-4	non	non	PART	BN	PronType=Neg	_	_	_	_	*
+4	non	non	ADV	BN	PronType=Neg	_	_	_	_	*
 5	poté	potere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	Variant=Apoc	*
 6	più	più	ADV	B	Degree=Cmp	_	_	_	_	*
 7	reggere	reggere	VERB	V	VerbForm=Inf	_	_	_	SpaceAfter=No	*
@@ -8986,7 +8986,7 @@
 24	,	,	PUNCT	FF	_	_	_	_	_	*
 25	fra	frate	NOUN	S	Gender=Masc|Number=Sing	_	_	_	Variant=Apoc	*
 26	Fazio	Fazio	PROPN	SP	_	_	_	_	_	*
-27	non	non	PART	BN	PronType=Neg	_	_	_	_	*
+27	non	non	ADV	BN	PronType=Neg	_	_	_	_	*
 28	gli	gli	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	_	*
 29	farebbe	fare	VERB	V	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	_	*
 30	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	_	_	_	_	*
@@ -9040,7 +9040,7 @@
 21	dimenticando	dimenticare	VERB	V	VerbForm=Conv	_	_	_	_	*
 22	che	che	SCONJ	CS	_	_	_	_	_	*
 23	questo	questo	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	_	_	_	_	*
-24	non	non	PART	BN	PronType=Neg	_	_	_	_	*
+24	non	non	ADV	BN	PronType=Neg	_	_	_	_	*
 25	intendeva	intendere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	*
 26	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	_	*
 27	latino	latino	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No	*
@@ -9077,7 +9077,7 @@
 12	a	a	ADP	E	_	_	_	_	_	*
 13	fra	frate	NOUN	S	Gender=Masc|Number=Sing	_	_	_	Variant=Apoc	*
 14	Fazio	Fazio	PROPN	SP	_	_	_	_	_	*
-15	non	non	PART	BN	PronType=Neg	_	_	_	_	*
+15	non	non	ADV	BN	PronType=Neg	_	_	_	_	*
 16	sarebber	essere	AUX	VA	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Variant=Apoc	*
 17	mancate	mancare	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	_	_	_	_	*
 18	altre	altro	DET	A	Gender=Fem|Number=Plur|PronType=Ind	_	_	_	_	*
@@ -9254,7 +9254,7 @@
 15	messo	messo	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No	*
 16	:	:	PUNCT	FC	_	_	_	_	_	*
 17	giacché	giacché	SCONJ	CS	_	_	_	_	_	*
-18	non	non	PART	BN	PronType=Neg	_	_	_	_	*
+18	non	non	ADV	BN	PronType=Neg	_	_	_	_	*
 19	sospettava	sospettare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	*
 20	ch'	che	SCONJ	B	_	_	_	_	SpaceAfter=No	*
 21	essi	essi	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	_	_	_	_	*
@@ -9344,7 +9344,7 @@
 17	ora	ora	ADV	B	_	_	_	_	_	*
 18	questo	questo	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	_	_	_	_	*
 19	paese	paese	NOUN	S	Gender=Masc|Number=Sing	_	_	_	_	*
-20	non	non	PART	BN	PronType=Neg	_	_	_	_	*
+20	non	non	ADV	BN	PronType=Neg	_	_	_	_	*
 21	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	_	*
 22	sicuro	sicuro	ADJ	A	Gender=Masc|Number=Sing	_	_	_	_	*
 23	per	per	ADP	E	_	_	_	_	_	*
@@ -9361,7 +9361,7 @@
 6	siete	essere	AUX	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	_	_	_	_	*
 7	nati	nascere	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	_	_	_	SpaceAfter=No	*
 8	;	;	PUNCT	FC	_	_	_	_	_	*
-9	non	non	PART	BN	PronType=Neg	_	_	_	_	*
+9	non	non	ADV	BN	PronType=Neg	_	_	_	_	*
 10	avete	avere	AUX	VA	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	_	_	_	_	*
 11	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	_	*
 12	male	male	NOUN	B	Gender=Masc|Number=Sing	_	_	_	_	*
@@ -9464,7 +9464,7 @@
 29	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	_	_	_	_	*
 30	studierò	studiare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	_	_	_	_	*
 31	di	di	ADP	E	_	_	_	_	_	*
-32	non	non	PART	BN	PronType=Neg	_	_	_	_	*
+32	non	non	ADV	BN	PronType=Neg	_	_	_	_	*
 33	mancare	mancare	VERB	V	VerbForm=Inf	_	_	_	_	*
 34-35	alla	_	_	_	_	_	_	_	_	*
 34	a	a	ADP	E	_	_	_	_	_	*
@@ -9536,7 +9536,7 @@
 12	stesso	stesso	DET	A	Gender=Masc|Number=Sing|PronType=Dem	_	_	_	_	*
 13	tempo	tempo	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No	*
 14	,	,	PUNCT	FF	_	_	_	_	_	*
-15	non	non	PART	BN	PronType=Neg	_	_	_	_	*
+15	non	non	ADV	BN	PronType=Neg	_	_	_	_	*
 16	troppo	troppo	ADV	B	_	_	_	_	_	*
 17	lontane	lontano	ADJ	A	Gender=Fem|Number=Plur	_	_	_	_	*
 18	da	da	ADP	E	_	_	_	_	_	*
@@ -9659,7 +9659,7 @@
 17	fin	fino	NOUN	E	Gender=Masc|Number=Sing	_	_	_	Variant=Apoc	*
 18	che	che	SCONJ	CS	_	_	_	_	_	*
 19	tu	tu	PRON	PE	Number=Sing|Person=2|PronType=Prs	_	_	_	_	*
-20	non	non	PART	BN	PronType=Neg	_	_	_	_	*
+20	non	non	ADV	BN	PronType=Neg	_	_	_	_	*
 21	possa	potere	AUX	VM	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	_	*
 22	tornare	tornare	VERB	V	VerbForm=Inf	_	_	_	_	*
 23	a	a	ADP	E	_	_	_	_	_	*
@@ -9787,7 +9787,7 @@
 23	farebbe	fare	AUX	V	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	_	*
 24	vedere	vedere	VERB	V	VerbForm=Inf	_	_	_	_	*
 25	di	di	ADP	E	_	_	_	_	_	*
-26	non	non	PART	BN	PronType=Neg	_	_	_	_	*
+26	non	non	ADV	BN	PronType=Neg	_	_	_	_	*
 27	conoscere	conoscere	VERB	V	VerbForm=Inf	_	_	_	_	*
 28	qual	quale	PRON	CS	Number=Sing|PronType=Rel	_	_	_	Variant=Apoc	*
 29	fosse	essere	AUX	V	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	_	*
@@ -10020,7 +10020,7 @@
 7	misericordia	misericordia	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No	*
 8	,	,	PUNCT	FF	_	_	_	_	_	*
 9	se	se	SCONJ	CS	_	_	_	_	_	*
-10	non	non	PART	BN	PronType=Neg	_	_	_	_	*
+10	non	non	ADV	BN	PronType=Neg	_	_	_	_	*
 11	ve	ve	PRON	PC	Clitic=Yes|Number=Plur|Person=2|PronType=Prs	_	_	_	_	*
 12	la	la	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	_	*
 13	chiedessimo	chiedere	VERB	V	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	_	_	_	_	*
@@ -10152,7 +10152,7 @@
 13	,	,	PUNCT	FF	_	_	_	_	_	*
 14	figliuoli	figliolo	NOUN	S	Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No|Style=Arch	figliuolo
 15	,	,	PUNCT	FF	_	_	_	_	_	*
-16	non	non	PART	BN	PronType=Neg	_	_	_	_	*
+16	non	non	ADV	BN	PronType=Neg	_	_	_	_	*
 17	c'	ci	ADV	PC	_	_	_	_	SpaceAfter=No	*
 18	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	_	*
 19	tempo	tempo	NOUN	S	Gender=Masc|Number=Sing	_	_	_	_	*
@@ -10184,7 +10184,7 @@
 7	quella	quello	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	_	_	_	_	*
 8	commozione	commozione	NOUN	S	Gender=Fem|Number=Sing	_	_	_	_	*
 9	che	che	PRON	PR	PronType=Rel	_	_	_	_	*
-10	non	non	PART	BN	PronType=Neg	_	_	_	_	*
+10	non	non	ADV	BN	PronType=Neg	_	_	_	_	*
 11	trova	trovare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	_	*
 12	parole	parola	NOUN	S	Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No	*
 13	,	,	PUNCT	FF	_	_	_	_	_	*
@@ -10376,7 +10376,7 @@
 
 # sent_id = 318
 # text = Non tirava un alito di vento; il lago giaceva liscio e piano, e sarebbe parso immobile, se non fosse stato il tremolare e l'ondeggiar leggiero della luna, che vi si specchiava da mezzo il cielo.
-1	Non	non	PART	BN	PronType=Neg	_	_	_	_	*
+1	Non	non	ADV	BN	PronType=Neg	_	_	_	_	*
 2	tirava	tirare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	*
 3	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	_	_	_	_	*
 4	alito	alito	NOUN	S	Gender=Masc|Number=Sing	_	_	_	_	*
@@ -10396,7 +10396,7 @@
 18	immobile	immobile	ADJ	A	Number=Sing	_	_	_	SpaceAfter=No	*
 19	,	,	PUNCT	FF	_	_	_	_	_	*
 20	se	se	SCONJ	CS	_	_	_	_	_	*
-21	non	non	PART	BN	PronType=Neg	_	_	_	_	*
+21	non	non	ADV	BN	PronType=Neg	_	_	_	_	*
 22	fosse	essere	AUX	VA	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	_	*
 23	stato	essere	AUX	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	_	*
 24	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	_	*
@@ -10763,7 +10763,7 @@
 30	sua	suo	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	_	_	_	_	*
 31	mente	mente	NOUN	S	Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No	*
 32	,	,	PUNCT	FF	_	_	_	_	_	*
-33	non	non	PART	BN	PronType=Neg	_	_	_	_	*
+33	non	non	ADV	BN	PronType=Neg	_	_	_	_	*
 34	meno	meno	ADV	B	Degree=Cmp	_	_	_	_	*
 35	che	che	SCONJ	CS	_	_	_	_	_	*
 36	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	_	*
@@ -10888,7 +10888,7 @@
 47	indietro	indietro	ADV	B	_	_	_	_	SpaceAfter=No	*
 48	,	,	PUNCT	FF	_	_	_	_	_	*
 49	se	se	SCONJ	CS	_	_	_	_	_	*
-50	non	non	PART	BN	PronType=Neg	_	_	_	_	*
+50	non	non	ADV	BN	PronType=Neg	_	_	_	_	*
 51	pensasse	pensare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	_	*
 52	che	che	SCONJ	CS	_	_	_	_	SpaceAfter=No	*
 53	,	,	PUNCT	FF	_	_	_	_	_	*
@@ -10997,7 +10997,7 @@
 87-88	alla	_	_	_	_	_	_	_	_	*
 87	a	a	ADP	E	_	_	_	_	_	*
 88	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	_	*
-89	casuccia	casa	NOUN	S	Gender=Fem|Number=Sing	_	_	_	Degree=Dim	casuccia
+89	casuccia	casa	NOUN	S	Gender=Fem|Number=Sing	_	_	_	Degree=End	casuccia
 90	a	a	ADP	E	_	_	_	_	_	*
 91	cui	cui	PRON	PR	PronType=Rel	_	_	_	_	*
 92	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	_	*
@@ -11028,7 +11028,7 @@
 # text = Ma chi non aveva mai spinto al di là di quelli neppure un desiderio fuggitivo, chi aveva composti in essi tutti i disegni dell'avvenire, e n'è sbalzato lontano, da una forza perversa!
 1	Ma	ma	CCONJ	CC	_	_	_	_	_	*
 2	chi	chi	PRON	P	PronType=Ind	_	_	_	_	*
-3	non	non	PART	BN	PronType=Neg	_	_	_	_	*
+3	non	non	ADV	BN	PronType=Neg	_	_	_	_	*
 4	aveva	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	*
 5	mai	mai	ADV	B	_	_	_	_	_	*
 6	spinto	spingere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	_	*
@@ -11106,7 +11106,7 @@
 30	di	di	ADP	E	_	_	_	_	_	*
 31	sconosciuti	sconosciuto	NOUN	S	Gender=Masc|Number=Plur	_	_	_	_	*
 32	che	che	PRON	PR	PronType=Rel	_	_	_	_	*
-33	non	non	PART	BN	PronType=Neg	_	_	_	_	*
+33	non	non	ADV	BN	PronType=Neg	_	_	_	_	*
 34	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	_	*
 35	mai	mai	ADV	B	_	_	_	_	_	*
 36	desiderato	desiderare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	_	*
@@ -11114,7 +11114,7 @@
 38	conoscere	conoscere	VERB	V	VerbForm=Inf	_	_	_	SpaceAfter=No	*
 39	,	,	PUNCT	FF	_	_	_	_	_	*
 40	e	e	CCONJ	CC	_	_	_	_	_	*
-41	non	non	PART	BN	PronType=Neg	_	_	_	_	*
+41	non	non	ADV	BN	PronType=Neg	_	_	_	_	*
 42	può	potere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	_	*
 43	con	con	ADP	E	_	_	_	_	_	*
 44	l'	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	SpaceAfter=No	*
@@ -11190,7 +11190,7 @@
 15	passando	passare	VERB	V	VerbForm=Conv	_	_	_	SpaceAfter=No	*
 16	,	,	PUNCT	FF	_	_	_	_	_	*
 17	e	e	CCONJ	CC	_	_	_	_	_	*
-18	non	non	PART	BN	PronType=Neg	_	_	_	_	*
+18	non	non	ADV	BN	PronType=Neg	_	_	_	_	*
 19	senza	senza	ADP	E	_	_	_	_	_	*
 20	rossore	rossore	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No	*
 21	;	;	PUNCT	FC	_	_	_	_	_	*
@@ -11282,7 +11282,7 @@
 9	tutto	tutto	PRON	PI	Gender=Masc|Number=Sing|PronType=Tot	_	_	_	SpaceAfter=No	*
 10	;	;	PUNCT	FC	_	_	_	_	_	*
 11	e	e	CCONJ	CC	_	_	_	_	_	*
-12	non	non	PART	BN	PronType=Neg	_	_	_	_	*
+12	non	non	ADV	BN	PronType=Neg	_	_	_	_	*
 13	turba	turbare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	_	*
 14	mai	mai	ADV	B	_	_	_	_	_	*
 15	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	_	*
@@ -11294,7 +11294,7 @@
 20	figli	figlio	NOUN	S	Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No	*
 21	,	,	PUNCT	FF	_	_	_	_	_	*
 22	se	se	SCONJ	CS	_	_	_	_	_	*
-23	non	non	PART	BN	PronType=Neg	_	_	_	_	*
+23	non	non	ADV	BN	PronType=Neg	_	_	_	_	*
 24	per	per	ADP	E	_	_	_	_	_	*
 25-26	prepararne	_	_	_	_	_	_	_	_	*
 25	preparare	preparare	VERB	V	VerbForm=Inf	_	_	_	_	*
@@ -11315,7 +11315,7 @@
 3	genere	genere	NOUN	S	Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No	*
 4	,	,	PUNCT	FF	_	_	_	_	_	*
 5	se	se	SCONJ	CS	_	_	_	_	_	*
-6	non	non	PART	BN	PronType=Neg	_	_	_	_	*
+6	non	non	ADV	BN	PronType=Neg	_	_	_	_	*
 7	tali	tale	DET	PD	Number=Plur|PronType=Dem	_	_	_	_	*
 8	appunto	appunto	ADV	B	_	_	_	_	SpaceAfter=No	*
 9	,	,	PUNCT	FF	_	_	_	_	_	*
